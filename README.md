@@ -1,1 +1,1 @@
-# KiDS-1000-Lensing-Power-Spectrum
+# KiDS-1000 Cosmic Shear Power Spectrum
